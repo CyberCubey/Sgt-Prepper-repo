@@ -1,4 +1,6 @@
 # Sgt-Prepper-repo
+NOTE: broken as of current, and maybe could've broke from aging or old coding, idk. 
+
 late repository
 
 Transferring files and progress from an older repository
